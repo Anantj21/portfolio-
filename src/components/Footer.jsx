@@ -7,7 +7,7 @@ export default function Footer({ darkMode }) {
       className={`${darkMode ? "bg-gray-900" : "bg-gray-900"} text-white py-8`}
     >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-        <p className="mb-4">Made by Anant </p>
+        <p className="mb-4">Made by Ayush </p>
         <p className="mb-4">
           <a
             href="mailto:vedantvijaysingh7980@gmail.com"

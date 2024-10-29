@@ -6,7 +6,7 @@ import { motion, useAnimation } from "framer-motion";
 const Hero = ({ darkMode }) => {
   const [currentText, setCurrentText] = useState("");
   const [currentIndex, setCurrentIndex] = useState(0);
-  const words = ["Anant Jain", "a Web Developer", "an UI/UX Enthusiast"];
+  const words = ["Ayush Pathak", "a Web Developer", "a DSA Enthusiast"];
   const controls = useAnimation();
 
   useEffect(() => {

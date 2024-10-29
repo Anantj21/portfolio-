@@ -17,7 +17,7 @@ export default function Navbar({ darkMode, toggleDarkMode, isNavbarVisible }) {
         <div className="flex justify-between h-16">
           <div className="flex items-center">
             <span className="text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-cyan-500 to-blue-500">
-              AJ
+              AP
             </span>
           </div>
           <div className="hidden sm:flex sm:items-center sm:space-x-8">
